@@ -27,10 +27,13 @@
 
 ## 3. 앙상블
 
-1. 의사결정나무
+1. [의사결정나무](https://fluttering-laborer-622.notion.site/Decision-Tree-7894d6dea21d4ec5b284d0f058da5545)
 2. 랜덤포레스트
 3. 배깅
 4. 부스팅
+
+4-1. 그레디언트 부스팅
+
 5. 스태킹
 
 <br><br>
