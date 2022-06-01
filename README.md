@@ -12,6 +12,7 @@
 4. SVM(서포트 벡터머신)
 5. DBSCAN
 6. PCA
+6. [평가지표](https://fluttering-laborer-622.notion.site/146e34071b034919a5a0d02d1098d7ac)
 
 <br>
 
