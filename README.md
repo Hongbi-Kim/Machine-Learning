@@ -7,7 +7,7 @@
 ## 1. 분류
 
 1. 나이브베이즈
-2. 로지스틱 회귀
+2. [로지스틱 회귀](https://fluttering-laborer-622.notion.site/f51bcd4c35b947f0ab01e33ae9ea053a)
 3. KNN(K-최근접이웃법)
 4. SVM(서포트 벡터머신)
 5. DBSCAN
