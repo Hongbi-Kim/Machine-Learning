@@ -29,13 +29,18 @@
 
 1. [의사결정나무](https://fluttering-laborer-622.notion.site/Decision-Tree-7894d6dea21d4ec5b284d0f058da5545)
 2. 랜덤포레스트
-3. 배깅
-4. 부스팅
+3. [배깅(Bagging)](https://fluttering-laborer-622.notion.site/Bagging-ec9a44ca0591402782522acdaaf65e1c)
+4. 부스팅(Boosting)
+   1. AdaBoosting
+   2. GradientBoosting
 
-4-1. 그레디언트 부스팅
 
 5. 스태킹
+5. 투표기반 앙상블(Voting Ensemble)
 
 <br><br>
 
 # ✅ 비지도학습
+
+1. 군집분석
+2. DBSCAN
